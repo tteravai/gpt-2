@@ -1,6 +1,8 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+# tteravai/gpt-2
 
-# gpt-2
+Minor changes so that this runs on tensorflow 2.1.0 and uses the 1558M model by default.
+
+## gpt-2
 
 Code and models from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
